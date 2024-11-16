@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Olasupo TOBY!  
+# 👋 Hey there, I'm Olasupo Tobiloba 
 
 ### 🌟 **Backend Engineer | ML Enthusiast | Curious Learner**
 
@@ -27,7 +27,7 @@
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
   ![LangChain](https://img.shields.io/badge/LangChain-%231C1E21?style=for-the-badge&logo=langchain&logoColor=white)
 
-  - **DevOps Tools**: 
+- **DevOps Tools**: 
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
