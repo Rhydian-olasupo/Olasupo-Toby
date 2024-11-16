@@ -59,7 +59,7 @@
 - **Programming & Frameworks**: [Python](https://www.python.org), [Golang](https://golang.org), [gRPC](https://grpc.io)
 - **Databases**: [MongoDB](https://www.mongodb.com), [Redis](https://redis.io), [MySQL](https://www.mysql.com)  
 - **Big Data**: [PySpark](https://spark.apache.org/docs/latest/api/python/) 
-- **Microservices & DevOps**: Docker, Kubernetes, Jenkins  
+- **Microservices & DevOps**: Docker, Kubernetes, Jenkins, Go-Micro 
 - **Finance Tools**: Financial market modeling tools and libraries
 
 ## 🌟 What I'm Up To  
