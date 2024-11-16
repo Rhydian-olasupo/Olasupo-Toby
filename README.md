@@ -29,11 +29,13 @@
 
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-  ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-%23009639?style=for-the-badge&logo=apache&logoColor=white)  
+  ![Vector Databases](https://img.shields.io/badge/Vector%20Databases-%23009639?style=for-the-badge&logo=apache&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white).
+  ![MongoDB](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 - **Other Tools**:  
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -46,15 +48,14 @@
 ---
 
 ## 📈 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rhydian-olasupo&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhydian-olasupo&layout=compact&theme=radical)  
 
 ---
 
 ## 💬 Let's Connect!  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-- 📧 Email: your-email@example.com  
-- 🌐 Personal Website: [yourwebsite.com](https://yourwebsite.com)  
+
 
 ---
 
