@@ -25,7 +25,11 @@
 - **Libraries & Frameworks**:  
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
   ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-  ![LangChain](https://img.shields.io/badge/LangChain-%231C1E21?style=for-the-badge&logo=langchain&logoColor=white) 
+  ![LangChain](https://img.shields.io/badge/LangChain-%231C1E21?style=for-the-badge&logo=langchain&logoColor=white)
+
+  - **DevOps Tools**: 
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 - **Databases**:  
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -34,12 +38,8 @@
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-- **DevOps Tools**:
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-  
-- **Frameworks & APIs**:
+
+### Frameworks & APIs
   ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest-api&logoColor=white)
   ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
   ![gRPC](https://img.shields.io/badge/gRPC-0E8E9A?style=for-the-badge&logo=grpc&logoColor=white)
@@ -56,7 +56,7 @@
 ---
 
 ## 🌟 What I Use in My Stack  
-- **Programming & Frameworks**: [Python](https://www.python.org), [Golang](https://golang.org), [gRPC](https://grpc.io), 
+- **Programming & Frameworks**: [Python](https://www.python.org), [Golang](https://golang.org), [gRPC](https://grpc.io)
 - **Databases**: [MongoDB](https://www.mongodb.com), [Redis](https://redis.io), [MySQL](https://www.mysql.com)  
 - **Big Data**: [PySpark](https://spark.apache.org/docs/latest/api/python/) 
 - **Microservices & DevOps**: Docker, Kubernetes, Jenkins  
