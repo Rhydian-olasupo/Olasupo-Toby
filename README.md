@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Olasupo Tobiloba 
 
-### 🌟 **Backend Engineer | ML Enthusiast | Curious Learner**
+### 🌟 **Backend Engineer | ML Engineer | Curious Learner**
 
 ---
 
